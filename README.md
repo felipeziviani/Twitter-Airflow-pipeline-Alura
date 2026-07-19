@@ -1,4 +1,4 @@
-# 🐦 Twitter Data Pipeline com Apache Airflow
+# Twitter Data Pipeline com Apache Airflow
 
 Projeto desenvolvido durante curso da **Alura**, com o objetivo de
 construir um pipeline de dados utilizando **Apache Airflow** para
@@ -6,7 +6,7 @@ extração e armazenamento de dados do Twitter.
 
 ------------------------------------------------------------------------
 
-## 📌 Objetivo
+## Objetivo
 
 Criar um pipeline automatizado que:
 
